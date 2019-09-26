@@ -5,7 +5,7 @@
 		{
 			"name": "HTML5",
 			"fileExtension": "html",
-			"snippet": "<!DOCTYPE HTML>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>${1:untitled}<\/title>\n<\/head>\n\n<body>$0\n<\/body>\n<\/html>"
+			"snippet": "<!doctype html>\n<html>\n\t<head>\n\n\t\t<meta charset=\"utf-8\">\n\n\t\t<title>${1:untitled}<\/title>\n\n\t<\/head>\n\n\t<body>\n\n\t\t$0 $UUID\n\n\t<\/body>\n<\/html>"
 		},
 		{
 			"name": "XHTML 1.1",
